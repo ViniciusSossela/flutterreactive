@@ -1,6 +1,6 @@
 # BloC Reactive Sample
 
-This is just a simple project that follows de BloC reactive pattern with Stream/RxDart.
+This is just a simple project that follows BloC reactive pattern with Stream/RxDart.
 
 ## Getting Started
 
